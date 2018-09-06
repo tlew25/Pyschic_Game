@@ -1,0 +1,99 @@
+/* CSS */
+
+body {
+    background-image: url("../images/free_purple_space_background_by_magical_mama-d2b7m7v.jpg");
+}
+.navbar {
+    margin-bottom: 15px;
+    background-color: #000;
+    border-style: groove;
+    border-color:#000;
+    border-radius: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h1 {
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: 200%;
+    color: #eee;
+    font-size: 55pt;
+}
+h2 {
+    font-family: 'Shadows Into Light', cursive;
+    text-align: center;
+    color:#eee;
+    font-size: 20pt;
+}
+.container {
+    background: #000;
+    height: 505px;
+    margin-top: 2px;
+    width: 65%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: groove;
+    border-color: #000;
+    border-radius: 10px;  
+}
+/* container for index2.html */
+.gameArea {
+    background: #000;
+    height: 855px;
+    width: 650px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+/* game alignment */
+p {
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 17pt;
+    color:#eee;
+
+}
+
+.img {
+    margin-top: 10px;
+   
+  
+}
+#misscleo {
+    border: 5px;
+    border-color: #000;
+    border-style: groove;
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+a {
+    text-decoration: none;
+}
+#btn {
+    border-radius: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    height: 28px;
+    color:#000;
+    font-size: 12pt;
+    font-family: 'Shadows Into Light', cursive;
+}
+.bottom {
+    margin-top: 20px;
+    background: #000;
+    border-radius: 10px;
+    border-style: groove;
+    border-color: #000;
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
